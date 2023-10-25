@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oliver-H-Miller
-- 👀 I’m currently studying Computer Science at Purdue University
+- 👀 I’m currently studying Computer Science at Purdue University with a focus on Security, Cryptography, and Software Engineering
 - 📫 How to reach me miller.oliver@icloud.com
 
 <!---
